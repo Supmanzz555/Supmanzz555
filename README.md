@@ -9,18 +9,4 @@ I enjoy learning and experimenting across the stack — from AI and backend to d
 
 ---
 
-### 🛠️ Tech Stack
-
-**💻 Languages** — Python · Java · JavaScript · SQL
-
-**🤖 AI / ML** — TensorFlow · Keras · RAG · LLMs · NLP
-
-**⚙️ Data & Infra** — Kafka · Spark · Docker · AWS · Cloudflare
-
-**🎨 Frontend** — HTML · CSS · Vue.js
-
-**🧰 Tools** — Git · Linux · Jupyter · FastAPI
-
----
-
 📫 **phaiphon.m@gmail.com**
