@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Maenrat P.
 **AI & Software Engineer** · Nonthaburi, Thailand
 
-[🌐 Portfolio](https://portfolio-supmanzz.vercel.app) · [💼 LinkedIn](https://www.linkedin.com/in/maenrat-phaiphon-0963b8377) · [📧 Email](mailto:phaiphon.m@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/maenrat-phaiphon-0963b8377) · [📧 Email](mailto:phaiphon.m@gmail.com)
 
 ---
 
